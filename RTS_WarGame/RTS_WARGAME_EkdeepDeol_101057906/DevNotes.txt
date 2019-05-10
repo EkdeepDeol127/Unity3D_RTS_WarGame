@@ -1,0 +1,29 @@
+This is my final build of this project for MILESTONE 3, I got everything I wanted to get In the Game and am happy with how it turned out, 
+All I am missing are finial assets and few bugs that don't break the game but are annoying.
+
+Inputs: 
+	ASWD keys to move around, also dragging mouse to edge of map to move
+	ScrollWheel is used to zoom in and out
+	Hold RightMouseButton to rotate around
+	Click with the MiddleMouseButton to move the units
+	Click with the LeftMouseButton to select units
+	Click with the RightMouseButton to rotate camera
+	Move the MouseArrow to the edges of the screen to move camera, also WSAD has same functionality(inverted if facing backwards)//bug
+	Use Shift to also see functionality for selecting units, basic to RTS Games
+	Use Esc to open in game menu
+	
+Incomplete:	
+	I have everthing I wanted to add, besides final assets.
+
+Bugs: 	
+	Units don't fire right away when spawned and have to move away from enemy then back to fire
+	Units can fire through walls, can be fixed with a simple ray cast to see if enemy is in sight or behind wall, before firing
+	Camera controls are inverted when facing backwards
+	Unit select can select more units if not all in selection box 
+
+Cheats:
+	Use N to go to the win screen if you suck to bad at the game
+	Use L to go to the lose screen
+
+By: Ekdeep Deol
+	

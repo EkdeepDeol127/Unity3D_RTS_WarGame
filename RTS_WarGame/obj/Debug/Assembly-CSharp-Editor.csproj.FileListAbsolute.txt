@@ -1,0 +1,2 @@
+C:\Users\graphic\Desktop\RTS_WarGame\obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+C:\Users\graphic\Desktop\RTS_WarGame\obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache

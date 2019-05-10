@@ -1,0 +1,2 @@
+C:\Users\graphic\Desktop\RTS_WarGame\obj\Debug\Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+C:\Users\graphic\Desktop\RTS_WarGame\obj\Debug\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
